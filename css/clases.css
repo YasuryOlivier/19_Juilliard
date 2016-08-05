@@ -1,0 +1,39 @@
+.of-clases{
+	padding: 30px;
+}
+.ofertauno{
+	background-image: url("../img/dance_12.jpg");
+}
+.ofertas{
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 390px;
+	height: 520px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+}
+.opacidad{
+	background-color: black;
+	opacity: 0.5;
+	width: 90%;
+	height: 170px;
+	margin-left: 15px;
+	margin-top: 170px;
+	padding: 40px;
+}
+.ofertados{
+	background-image: url("../img/breakdance.jpg");
+}
+.ofertatres{
+	background-image: url("../img/lirical-jazz.jpg");
+}
+
+.ofertacuatro{
+	background-image: url("../img/arabe.jpg");
+}
+.ofertacinco{
+	background-image: url("../img/little.jpg");
+}
+.ofertaseis{
+	background-image: url("../img/yoga.jpg");
+}

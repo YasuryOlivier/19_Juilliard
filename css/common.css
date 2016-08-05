@@ -1,0 +1,55 @@
+li{
+	display: inline-block;
+	padding: 3%;
+}
+.fin{
+	height: 30px;
+	font-size: 17px;
+}
+.nombre{
+	width: 600px;
+	background-image: url("../img/iconos/avatar.png");
+	background-repeat: no-repeat;
+	padding-left: 20px;
+}
+
+.email{
+	width: 600px;
+	background-image: url("../img/iconos/editar.png");
+	background-repeat: no-repeat;
+	padding-left: 20px;
+}
+.mensaje{
+	width: 600px;
+	height: 150px;
+	background-image: url("../img/iconos/sobre.png");
+	background-repeat: no-repeat;
+	padding-bottom: 80px;
+	padding-left: 20px;
+}
+input{
+	margin-left: 70px;
+	margin-top: 40px;
+}
+.fondo-zapatilla{
+	background-image: url("../img/shoes_1.jpg");
+	background-repeat: no-repeat;
+	background-position: right;
+	height: 480px;
+	width: 100%;
+}
+.botond{
+	width: 600px;
+	height: 60px;
+	background: #192951;
+	border: none;
+	color: white;
+	margin-left: 70px;
+	margin-top: 40px; 
+}
+.fondoazul{
+	background-color: #192951;
+}
+.cont{
+	margin-left: 70px;
+}/* Inserta tu codigo que es común para todas las páginas aqui */
